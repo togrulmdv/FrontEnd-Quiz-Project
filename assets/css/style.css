@@ -1,5 +1,6 @@
 body {
   background-color: azure;
+  background-image: url("https://www.heymind.org.uk/wp-content/uploads/2023/05/cirrus_clouds_aspot_AdobeStock.jpg");
 }
 
 .heading {
@@ -11,6 +12,7 @@ body {
 }
 
 .boxes {
+  background-color: whitesmoke;
   width: 200px;
   height: 400px;
   box-shadow: 4px 7px #999999;
