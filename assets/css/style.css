@@ -1,0 +1,52 @@
+body {
+  background-color: azure;
+}
+
+.heading {
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  background-color: crimson;
+  margin-bottom: 20px;
+}
+
+.boxes {
+  width: 200px;
+  height: 400px;
+  box-shadow: 4px 7px #999999;
+  border-radius: 12px;
+  margin-left: 50px;
+  margin-top: 40px;
+}
+
+.day {
+  background-color: darkcyan;
+  width: 200px;
+  height: 20%;
+  color: white;
+  text-align: center;
+  border-radius: 12px;
+  font-size: 40px;
+  padding-top: 15px;
+}
+
+.temperature {
+  margin-top: -20px;
+  margin-left: 65px;
+  color: gray;
+  font-size: 70px;
+}
+
+.icon {
+  color: dodgerblue;
+  font-size: 90px;
+  margin-left: 40px;
+  margin-top: -60px;
+}
+
+.weather {
+  font-size: 30px;
+  text-align: center;
+  color: #999999;
+  margin-top: -70px;
+}/*# sourceMappingURL=style.css.map */
